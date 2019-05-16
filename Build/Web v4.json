@@ -1,0 +1,12 @@
+{
+"companyName": "Vooll Studios",
+"productName": "First Mission Pixel",
+"dataUrl": "Web v4.data.unityweb",
+"wasmCodeUrl": "Web v4.wasm.code.unityweb",
+"wasmFrameworkUrl": "Web v4.wasm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#1E2429"
+}
